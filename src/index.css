@@ -1,6 +1,8 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+/* src/index.css */
+@import './styles/fonts.css';
 
 /* 기존 CSS 내용은 그대로 유지 */
 
